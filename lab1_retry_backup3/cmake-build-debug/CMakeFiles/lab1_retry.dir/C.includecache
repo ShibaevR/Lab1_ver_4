@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/1/CLionProjects/lab1_retry_backup3/fieldinfo.h
+
+C:/Users/1/CLionProjects/lab1_retry_backup3/matrix.c
+string.h
+-
+stdlib.h
+-
+time.h
+-
+stdio.h
+-
+matrix.h
+C:/Users/1/CLionProjects/lab1_retry_backup3/matrix.h
+
+C:/Users/1/CLionProjects/lab1_retry_backup3/matrix.h
+fieldinfo.h
+C:/Users/1/CLionProjects/lab1_retry_backup3/fieldinfo.h
+
